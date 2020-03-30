@@ -1,0 +1,53 @@
+﻿state,sat_mandatory,sat_govt_paid,act_mandatory,act_govt_paid,sat_or_act_mandatory,state_pays_either,no_test_mandatory
+Alabama,0,0,1,1,0,0,0
+Alaska,0,0,0,0,0,0,1
+Arizona,0,0,0,0,0,0,1
+Arkansas,0,0,0,1,0,0,1
+California,0,0,0,0,0,0,1
+Colorado,1,1,0,1,0,1,0
+Connecticut,1,1,0,0,0,0,0
+Delaware,1,1,0,0,0,0,0
+District of Columbia,1,1,0,0,0,0,0
+Florida,0,0,0,0,0,0,1
+Georgia,0,0,0,0,0,0,1
+Hawaii,0,0,1,1,0,0,0
+Idaho,0,0,0,0,1,0,0
+Idaho,0,0,0,0,1,0,0
+Illinois,1,1,0,0,0,0,0
+Indiana,0,0,0,0,0,0,1
+Iowa,0,0,0,0,0,0,1
+Kansas,0,0,0,0,0,0,1
+Kentucky,0,0,1,1,0,0,0
+Louisiana,0,0,1,1,0,0,0
+Maine,1,1,0,0,0,0,0
+Maryland,1,0,0,0,0,0,0
+Massachusetts,0,0,0,0,0,0,1
+Michigan,1,1,0,0,0,0,0
+Minnesota,0,0,0,0,0,0,1
+Mississippi,0,0,1,1,0,0,0
+Missouri,0,0,1,1,0,0,0
+Montana,0,0,1,1,0,0,0
+Nebraska,0,0,0,0,0,0,1
+Nevada,0,0,1,1,0,0,0
+New Hampshire,1,1,0,0,0,0,0
+New Jersey,1,0,0,0,0,0,0
+New Mexico,0,0,0,0,0,0,1
+New York,0,0,0,0,0,0,1
+North Carolina,0,0,1,1,0,0,0
+North Dakota,0,0,0,0,0,0,1
+Ohio,0,1,0,0,1,0,0
+Oklahoma,0,0,0,0,0,1,1
+Oregon,0,0,0,0,0,0,1
+Pennsylvania,0,0,0,0,0,0,1
+Rhode Island,0,0,0,0,0,0,1
+South Carolina,0,0,1,1,0,0,0
+South Dakota,0,0,0,0,0,0,1
+Tennessee,0,0,0,0,1,0,0
+Texas,0,0,0,0,0,0,1
+Utah,0,0,1,1,0,0,0
+Vermont,0,0,0,0,0,0,1
+Virginia,0,0,0,0,0,0,1
+Washington,0,0,0,0,0,0,1
+West Virginia,0,0,0,0,0,0,1
+Wisconsin,0,0,1,1,0,0,0
+Wyoming,0,0,1,1,0,0,0
