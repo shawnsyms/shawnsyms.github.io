@@ -29,7 +29,7 @@ The model has a success rate of over 90 percent, which is higher than many subje
 
 To answer this question, I constructed an NLP model which took as its training input the content from over 3,000 preprocessed reddit posts, half of them originating in four subreddits dedicated to discussion of active substance use and half of them from four subreddits focused on active recovery from drug and alcohol addiction. I ran the model using a train-test split, and then used another 600 reddit posts as unknown data for the model to classify as active drug use or active recovery. <em>The project will be considered successful if the model can properly identify 90 percent or more of the posts.</em>
 
-<img src="../img/subreddits.png">
+<img src="./img/subreddits.png">
 
 <hr>
 <a name="results"></a>
@@ -52,7 +52,7 @@ Using sci-kit learn, we deployed four different models, using CountVectorizer in
 ## Successful model 
 The model that we successfully deployed against unknown data in a new test set was the Naive Bayes Gaussian.
 
-<img src="../img/final.png">
+<img src="./img/final.png">
 
 > This model boasted the highest accuracy of all models tested, as well as the smallest variance between accuracy against training vs test data; the model was actually slightly underfitted at -4.85% variance.
 
