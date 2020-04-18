@@ -5,15 +5,9 @@
 
 #### Writings
 
-Here are a number of short posts I've authored on basic aspects of data science.
+Here are some short posts I've authored on basic aspects of data science.
 
-> post 1
-
->  post 2
-
->  post 3
-
-
+> <a href='blog/data_cleaning/'>To clean or not to clean</a>
 
 #### Data science experiments
 
