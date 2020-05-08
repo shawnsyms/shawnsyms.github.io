@@ -67,7 +67,7 @@ As a result of our shift in approach, our accuracy scores improved significantly
 
 We divided our coding efforts into five notebooks:
 
-Part 1: Project overview, initial imports, exploratory data, models: ADAboost, $k$NN and Random Forest Classifier 
+Part 1: Project overview, initial imports, exploratory data, models: ADAboost, kNN and Random Forest Classifier 
 
 Part 2: Initial feed-forward neural network
 
