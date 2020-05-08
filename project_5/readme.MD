@@ -76,3 +76,21 @@ Part 3: Feed-forward neural network with hyperparameters tuned
 Part 4: Classification metrics
 
 Part 5: API and webscraping
+
+
+
+## Conclusion
+
+- Neural Network was the most effective model at predicting the fire-size class for a wildfire—with train and test accuracy of 61 percent and 62 percent, respectively
+- This dataset is far better suited to a classification problem than a regression one, with a **significant** boost in model results—from < 0.05 r2 scores to approximately ~60 percent accuracy scores
+- Our results are comparable to others that have used this dataset (see Sky B.T. Williams's [article](https://towardsdatascience.com/wildfire-destruction-a-random-forest-classification-of-forest-fires-e08070230276)), which tells us that our accuracy results are the best you can achieve when using the dataset as is
+
+
+
+## Recommendations
+
+- The historical weather data from DarkSky API was only collected for 2015 given time and financial constraints. We recommend that this observed weather data is collected for all years (1992—2015) and implemented into the NN classification model to see how results improve
+- It's evident from the results that there are significant class-distribution imbalances in this dataset, as class A and class B make up the majority of the dataset, while class G makes up only 0.2% of the total wildfires. For this reason, it would be beneficial to implement some sort of weight classes to compensate for the imbalance in data points
+
+
+
