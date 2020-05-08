@@ -57,7 +57,7 @@ For this new objective, we used the entire dataset (1.8M fire occurrences) and r
 > - ADAboost
 > - Feed-forward Neural Network (NN)
 > - kNN
-> - Random Forest Classifier
+> - Random Forest classifier
 
 As a result of our shift in approach, our accuracy scores improved significantly. The best model (NN) output 61 percent scores for both the training and the test set.
 
@@ -65,10 +65,14 @@ As a result of our shift in approach, our accuracy scores improved significantly
 
 ## Project notebooks
 
-We divided our coding efforts into three notebooks:
+We divided our coding efforts into five notebooks:
 
 Part 1: Project overview, initial imports, exploratory data, models: ADAboost, $k$NN and Random Forest Classifier 
 
-Part 2: Initial Feed-forward Neural Network
+Part 2: Initial feed-forward neural network
 
-Part 3: Feed-forward Neural Network with hyperparameters tuned
+Part 3: Feed-forward neural network with hyperparameters tuned
+
+Part 4: Classification metrics
+
+Part 5: API and webscraping
