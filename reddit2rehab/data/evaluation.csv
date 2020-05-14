@@ -1,8 +1,0 @@
-﻿model,Variance,train_accuracy,test_accuracy,test_precision,test_recall,test_f1
-Naïve Bayes Multinomial,-1.56,91.78,93.34,99.32,90.25,94.57
-Naïve Bayes Gaussian,-4.85,90.63,95.47,92.24,1,95.96
-Decision Tree,25.74,99.64,73.90,78.77,77.01,77.88
-Decision Tree Optimized,6.33,78.63,72.30,71.69,78.89,75.12
-Random Forest,18.55,99.64,81.09,91.55,79.25,84.96
-Random Forest Optimized,13.84,94.27,80.43,91.32,79.37,84.93
-Final Naïve Bayes Gaussian,0,0,96.44,93.91,1,96.86
